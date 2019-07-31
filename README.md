@@ -20,7 +20,7 @@ For more details about each part check out the code in the repository. If anythi
 ### Installation
 To run Grid studio locally refer to the <a href="https://github.com/ricklamers/gridstudio/wiki/Installation">Installation</a> page of the Wiki.
 
-It comes down to pulling the latest Grid studio Docker image that has all dependencies configured (mainly: Go language, Python 3 with packacges, Node.js) and starting the Docker container.
+It comes down to pulling the latest Grid studio Docker image that has all dependencies configured (mainly: Go language, Python 3 with packages, Node.js) and starting the Docker container.
 
 For more information check out our <a href="https://github.com/ricklamers/gridstudio/wiki">Wiki</a>.
 
